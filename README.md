@@ -14,3 +14,6 @@ Skateboarding made its debut in Olympics at the 2020 Summer Tokyo Olympics. This
 - `Sport`: Skateboarding
 - `Event` : There are two types of Skateboarding events conducted in olympics they are; Skateboarding Park Event and SkateBoarding Street Event
 - `Medal` : Medal won by athlete.
+> [!NOTE]
+> If you'd like to see the interactive version, you can visit my Tableau profile. The link to dashboard is given below.
+> https://public.tableau.com/app/profile/mounika.macharla/viz/SkateBoardinginOlympics/Dashboard1
